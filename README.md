@@ -2,7 +2,7 @@
 
 Currently I'm a Software Engineering student at Instituto Tecnológico de Costa Rica. 
 
-!fabianB30's Stats](https://github-readme-stats.vercel.app/api?username=fabianB30&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[!fabianB30's Stats](https://github-readme-stats.vercel.app/api?username=fabianB30&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
