@@ -1,7 +1,19 @@
-## Hi there 👋
+# Hello, my name is Fabián Bustos! 👋
+
+Currently I'm a Software Engineering student at Instituto Tecnológico de Costa Rica. 
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Bachellor's degree in Software Engineering
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 
 <!--
-**fabianB30/fabianB30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
