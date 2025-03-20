@@ -10,7 +10,7 @@ Currently I'm a Software Engineering student at Instituto Tecnológico de Costa 
 - 🔭 I'm currently pursuing my Bachellor's degree in Software Engineering
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,elixir,figma,git,github,js,nodejs,npm,obsidian,postgres,ts,vite,vue,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,elixir,figma,git,github,nodejs,npm,obsidian,postgres,ts,vite,vue,react)](https://skillicons.dev)
 
 
 
